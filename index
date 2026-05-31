@@ -1,0 +1,22 @@
+<!Doctype html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Papelaria Fofa</title>
+    h1, h2, h3,h4, h5, h6 {
+        align: center;
+    }
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#">Início</a></li>
+            <li><a href="#">Produtos</a></li>
+            <li><a href="#">Contato</a></li>
+        </ul>
+    </nav>
+    <h1>Bem-vindo à Papelaria Fofa!</h1>
+    <p>Essa loja é feita para vocÊ que gosta de coisas coloridas, as vezes úteis, as vezes inúteis, porém sempre fofas! Nossa missão é trazer produtos de qualidade para tornar sua rotina de estudos e administrativas mais divertidas e fofas!!!</p>
+    <h3>Seja muito</h3>
+</html>
